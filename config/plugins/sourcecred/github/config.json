@@ -1,0 +1,24 @@
+{
+	"repositories": [
+	"handshake-org/hnsd",
+	"handshake-org/hs-airdrop",
+	"handshake-org/hsd",
+	"handshake-org/handshake-web",
+	"handshake-org/HIPs",
+	"handshake-org/handshake-org.github.io",
+	"handshake-org/faucet-tool",
+	"handshake-org/hs-client",
+	"handshake-org/goosig",
+	"handshake-org/ledger-app-hns",
+	"handshake-org/hs-rosetta",
+	"handshake-org/hsd-ledger",
+	"handshake-org/hs-names",
+	"handshake-org/urkel",
+	"handshake-org/hs-miner",
+	"handshake-org/hs-tree-data",
+	"handshake-org/hdns",
+	"handshake-org/bcuckoo",
+	"handshake-org/hndshkBot",
+	"handshake-org/libhns"
+	]
+}
